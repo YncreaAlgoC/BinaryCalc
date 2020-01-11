@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BinaryCalcTemplate",
-    "\\BinaryCalcTemplate\\BinaryCalcTemplate"
+    "\\BinaryCalcTemplate\\.vs",
+    "\\BinaryCalcTemplate\\.vs\\BinaryCalcTemplate",
+    "\\BinaryCalcTemplate\\.vs\\BinaryCalcTemplate\\config",
+    "\\BinaryCalcTemplate\\.vs\\BinaryCalcTemplate\\v16",
+    "\\BinaryCalcTemplate\\.vs\\BinaryCalcTemplate\\v16\\ipch",
+    "\\BinaryCalcTemplate\\BinaryCalcTemplate",
+    "\\Paramètres locaux (.vs)"
   ],
-  "SelectedNode": "\\BinaryCalcTemplate\\BinaryCalcTemplate.sln",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
