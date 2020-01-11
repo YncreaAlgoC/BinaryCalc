@@ -10,7 +10,7 @@
 //  date 26 sept 2019
 //	remarque : développement … vocation pédagogique
 //	public : néophytes
-
+//  
 
 COORD org = { POSX,POSY };
 char allKey[] = "()wW0123456789aAbBcCdDeEfFgGhHiIjJkKlLmMmNoOqQrRsStTuUwWyxXYzZ+-*/=<.\n\r";

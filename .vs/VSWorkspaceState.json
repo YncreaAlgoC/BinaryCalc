@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BinaryCalcTemplate"
+    "\\BinaryCalcTemplate",
+    "\\BinaryCalcTemplate\\BinaryCalcTemplate"
   ],
   "SelectedNode": "\\BinaryCalcTemplate\\BinaryCalcTemplate.sln",
   "PreviewInSolutionExplorer": false
